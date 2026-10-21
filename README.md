@@ -1,6 +1,6 @@
 ### Hi, I'm Max (f1devbin)
 
-Self-taught developer. I build things that run on my own home servers: Telegram bots, monitoring
+Programmer by education, electronics engineer for many years. I build things that run on my own home servers: Telegram bots, monitoring
 dashboards, KDE Plasma widgets, and an honest research lab for crypto trading ideas.
 *Русский — родной язык; пишите на любом.*
 
