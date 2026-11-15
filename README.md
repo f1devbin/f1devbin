@@ -21,9 +21,19 @@ token stays in your browser. [Open it](https://f1devbin.github.io/telegram-bot-m
 local interfaces, a network scanner with port scan, diagnostics, a speed test, traffic per app and a device monitor.
 No root rights, no telemetry. [Download](https://github.com/f1devbin/my-ip-geo-plasma6/releases/latest).
 
+**[C6 Zigbee Stick](https://github.com/f1devbin/c6-zigbee-stick)**, turns an inexpensive ESP32-C6 board into a
+Zigbee coordinator for Home Assistant. Flash it from the browser, plug it in, press "Add": the integration checks the
+board over ZBOSS and sets up Zigbee2MQTT on its own. [Flash the firmware](https://f1devbin.github.io/c6-zigbee-stick/).
+
+**[GrodnoBikeClub](https://github.com/f1devbin/GrodnoBikeClub)**, a daily Telegram digest of cycling news from
+Belarus and Grodno with the weather and exchange rates. It runs on GitHub Actions: an AI model picks and rewrites the
+news, politics and accidents are filtered out. [Channel](https://t.me/GrodnoBikeClub) ·
+[website](https://f1devbin.github.io/GrodnoBikeClub/).
+
 #### What I work with
 
-PHP 8, Python, JavaScript, QML, MariaDB, SQLite, Nginx, systemd, Ubuntu, Armbian, GitHub Actions, Telegram Bot API.
+PHP 8, Python, JavaScript, QML, MariaDB, SQLite, Nginx, systemd, Ubuntu, Armbian, GitHub Actions, Telegram Bot API,
+Home Assistant, ESP32.
 
 #### Contact
 
